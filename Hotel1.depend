@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1472474603 source:e:\grafika semester ii\pemprograman dasar (pak mahmudi)\arraymultidimensi\hotel1\main.cpp
+	<iostream>
+	<stdio.h>
+
+1472480005 source:e:\grafika semester ii\pemprograman dasar (pak mahmudi)\hotel1\main.cpp
+	<iostream>
+	<stdio.h>
+
+1479022299 source:e:\grafika semester ii\pemprograman dasar (pak mahmudi)\hotel1_welldone\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<errno.h>
+	<stdnoreturn.h>
+
+1479022299 source:g:\school\pemprograman dasar (pak mahmudi)\hotel1_welldone\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<errno.h>
+	<stdnoreturn.h>
+
+1479094179 source:h:\school\pemprograman dasar (pak mahmudi)\hotel1_welldone\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<errno.h>
+
+1479178371 source:d:\school\pemprograman dasar (pak mahmudi)\hotel1_welldone\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<errno.h>
+	<stdnoreturn.h>
+	<ctime>
+
