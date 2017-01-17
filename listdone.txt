@@ -1,0 +1,7 @@
+pecabangan y
+perulangan y
+operator y
+array y
+string y
+pointer y
+fungsi y
